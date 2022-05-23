@@ -170,6 +170,9 @@ async function promptIntern(){
 
 promptManager()
 .then((answer) => {
+    if(answer === "I'm done building my team."){
+        generatePage(manager, engineers, interns);
+    }
     if(answer === 'Engineer'){
         promptEngineer();
     }
