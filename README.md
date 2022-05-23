@@ -102,6 +102,6 @@ For answers to common questions about this code of conduct, see the FAQ at https
     
   
   ## Questions
-  ## [Github](github.com/rubeyschulz)
+  ## [Github](https://github.com/rubeyschulz)
 
-  ## [Email](connor.j.schulz@gmail.com)
+  ## [Email](mailto:connor.j.schulz@gmail.com)
